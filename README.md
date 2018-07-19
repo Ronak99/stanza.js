@@ -27,7 +27,7 @@ var element = $(".animatedTextContainer");
 //you can use jquery or javascript
 ```
 
-3.Create animation settings object variable and pass it as a second argument in the config function
+3. Create animation settings object variable and pass it as a second argument in the config function
 ```js
 var animationSettings = {
   "animationName":"hinge",
@@ -37,7 +37,7 @@ var animationSettings = {
 }
 ```
 
-4.Pass the target element and animationSettings to the config function called upon the stanza variable.
+4. Pass the target element and animationSettings to the config function called upon the stanza variable.
 
 ```js
 stanza.config(element, animationSettings);
