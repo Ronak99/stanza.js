@@ -3,7 +3,9 @@
 A javascript library that helps you apply animation on every single letter or character present inside of a container.
 Comes in handy when you wish to draw attention of the user.
 
-##Usage
+---
+
+####Usage
 
 Download or get the raw master.js file which contains the entire code. Include it in you web page.
 
