@@ -1,6 +1,6 @@
 
 
-function stanza(){
+function Stanza(){
 
 	/*******************************
 	
