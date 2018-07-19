@@ -3,7 +3,7 @@
 A javascript library that helps you apply animation on every single letter or character present inside of a container.
 Comes in handy when you wish to draw attention of the user.
 
----
+------------
 
 ### Usage
 
@@ -43,8 +43,13 @@ var animationSettings = {
 stanza.config(element, animationSettings);
 ```
 
+--------
+
 # Dependecies
 The library uses jquery as a dependency so do not foreget to include that as well.
 
+```html
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"> </script>
 
+```
