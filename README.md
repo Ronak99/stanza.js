@@ -5,7 +5,7 @@ Comes in handy when you wish to draw attention of the user.
 
 ---
 
-####Usage
+### Usage
 
 Download or get the raw master.js file which contains the entire code. Include it in you web page.
 
@@ -13,7 +13,7 @@ Download or get the raw master.js file which contains the entire code. Include i
 <script src="master.js"> </script>
 ```
 
-##What you need to do
+#### What you need to do
 1. Initialise Stanza.js
 
 ~~~js
@@ -43,7 +43,7 @@ var animationSettings = {
 stanza.config(element, animationSettings);
 ```
 
-#Dependecies
+# Dependecies
 The library uses jquery as a dependency so do not foreget to include that as well.
 
 
